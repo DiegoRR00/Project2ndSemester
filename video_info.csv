@@ -1,0 +1,101 @@
+Is movie or series,ID,Name,Genre,Length,Rating,Episode name,Season,Episode number,Release year,Budget
+M,Kimi_no_na_wa,Kimi no na wa,Anime,106,5,Kimi no na wa,0,0,2016,7000000
+S,Love_live,Love Live!,Anime,26,4,Come True! Our Dreams!,1,1,2013,2000000
+S,Love_live,Love Live!,Anime,26,4,Let's Start Becoming Idols!,1,2,2013,2000000
+S,Love_live,Love Live!,Anime,26,5,First Live,1,3,2013,2000000
+S,Love_live,Love Live!,Anime,26,5,MakiRinPana,1,4,2013,2000000
+S,Love_live,Love Live!,Anime,26,3,Nico Attacks,1,5,2013,2000000
+S,Love_live,Love Live!,Anime,26,3,Who'll Be the Center?,1,6,2013,2000000
+S,Love_live,Love Live!,Anime,26,4,Elichika,1,7,2013,2000000
+S,Love_live,Love Live!,Anime,26,4,What I Want To Do Is,1,8,2013,2000000
+S,Love_live,Love Live!,Anime,26,3,Wonder Zone,1,9,2013,2000000
+S,Love_live,Love Live!,Anime,26,3,No Upperclassmen Allowed!,1,10,2013,2000000
+S,Love_live,Love Live!,Anime,26,3,The Greatest Live Performance,1,11,2013,2000000
+S,Love_live,Love Live!,Anime,26,4,Friends,1,12,2013,2000000
+S,Love_live,Love Live!,Anime,26,5,u's Music Start!!,1,13,2013,2000000
+S,Love_live,Love Live!,Anime,26,4,Love Live! Once Again,2,1,2014,2000000
+S,Love_live,Love Live!,Anime,26,4,Aim for Victory,2,2,2014,2000000
+S,Love_live,Love Live!,Anime,26,5,The Door to Our Dreams,2,3,2014,2000000
+S,Love_live,Love Live!,Anime,26,3,No. 1 Idol in the Universe,2,4,2014,2000000
+S,Love_live,Love Live!,Anime,26,5,A New Me,2,5,2014,2000000
+S,Love_live,Love Live!,Anime,26,4,Happy Halloween,2,6,2014,2000000
+S,Love_live,Love Live!,Anime,26,4,We Have to Do Something,2,7,2014,2000000
+S,Love_live,Love Live!,Anime,26,4,My Wish,2,8,2014,2000000
+S,Love_live,Love Live!,Anime,26,5,Melody of the Heart,2,9,2014,2000000
+S,Love_live,Love Live!,Anime,26,5,u's,2,10,2014,2000000
+S,Love_live,Love Live!,Anime,26,5,That Which We Decided,2,11,2014,2000000
+S,Love_live,Love Live!,Anime,26,5,Last Live,2,12,2014,2000000
+S,Love_live,Love Live!,Anime,26,5,Come True! Everyone's Dream,2,13,2014,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,4,I Want to Shine!!,1,1,2016,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,4,Catch the Transfer Student!,1,2,2016,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,5,First Step,1,3,2016,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,3,Two Girl's Feelings,1,4,2016,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,3,Yohane Descends,1,5,2016,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,3,Let's Make a PV,1,6,2016,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,4,TOKYO,1,7,2016,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,5,Isn't it Frustating?,1,8,2016,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,5,Young DREAMER,1,9,2016,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,3,We've Got Stewshine,1,10,2016,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,5,Aye-Aye My Friend,1,11,2016,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,4,It's Time to Fly,1,12,2016,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,5,Sunshine!!,1,13,2016,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,4,Next Step,2,1,2017,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,3,The Sound of Rain,2,2,2017,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,5,Rainbow,2,3,2017,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,5,Don't Call Me Dia-san,2,4,2017,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,3,Taking in A Dog,2,5,2017,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,4,Aqours WAVE,2,6,2017,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,4,The Time Left,2,7,2017,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,3,HAKODATE,2,8,2017,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,4,Awaken the Power,2,9,2017,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,5,Finding a Way to Shine,2,10,2017,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,5,Uranohoshi Grils' High School,2,11,2017,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,5,Sea of Light,2,12,2017,2000000
+S,Love_live_sunshine,Love Live! Sunshine,Anime,26,5,Our own Radiance,2,13,2017,2000000
+M,Wallace_and_gromit,Wallace and Gromit,Comedy,85,4,Wallace and Gromit,0,0,2005,30000000
+M,Love_live_Movie,Love Live! The school idol movie,Anime,99,5,Love Live! The school idol movie,0,0,2015,7000000
+M,Love_Live!_Sunshine_Over_the_Rainbow,Love Live! Sunshine Over the Rainbow,Anime,100,5,Love Live! Sunshine Over the Rainbow,0,0,2019,7000000
+M,Shrek_1,Shrek,Animation,90,5,Shrek,0,0,2001,60000000
+M,Shrek_2,Shrek 2,Animation,92,4,Shrek 2,0,0,2004,150000000
+M,Shrek_3,Shrek 3,Animation,92,2,Shrek 3,0,0,2007,160000000
+M,Shrek_4,Shrek Forever after,Animation,92,5,Shrek Forever after,0,0,2010,165000000
+S,Avatar_the_last_airbender,Avatar the last Airbender,Comedy,23,4,The Boy in the Iceberg,1,1,2006,3660000
+S,Avatar_the_last_airbender,Avatar the last Airbender,Comedy,23,3,The Avatar Returns,1,2,2006,3660000
+S,Avatar_the_last_airbender,Avatar the last Airbender,Comedy,23,4,The Southern Air Temple,1,3,2006,3660000
+S,Avatar_the_last_airbender,Avatar the last Airbender,Comedy,23,2,The Warriors of Kyoshi,1,4,2006,3660000
+S,Avatar_the_last_airbender,Avatar the last Airbender,Comedy,23,4,The Avatar State,2,1,2006,3660000
+S,Avatar_the_last_airbender,Avatar the last Airbender,Comedy,23,3,The Cave of Two Lovers,2,2,2006,3660000
+S,Avatar_the_last_airbender,Avatar the last Airbender,Comedy,23,5,Return to Omashu,2,3,2006,3660000
+S,Avatar_the_last_airbender,Avatar the last Airbender,Comedy,23,2,The Swamp,2,4,2006,3660000
+S,Avatar_the_last_airbender,Avatar the last Airbender,Comedy,23,5,The Awakening,3,1,2006,3660000
+S,Avatar_the_last_airbender,Avatar the last Airbender,Comedy,23,3,The Headband,3,2,2006,3660000
+S,Avatar_the_last_airbender,Avatar the last Airbender,Comedy,23,4,The Painted Lady,3,3,2006,3660000
+S,Avatar_the_last_airbender,Avatar the last Airbender,Comedy,23,3,Sokka's Master,3,4,2006,3660000
+S,The_Legend_of_korra,The legend of Korra,Comedy,23,3,Welcome to Republic city,1,1,2012,3660000
+S,The_Legend_of_korra,The legend of Korra,Comedy,23,2,A Leaf in the Wind,1,2,2012,3660000
+S,The_Legend_of_korra,The legend of Korra,Comedy,23,3,The Revelation,1,3,2012,3660000
+S,The_Legend_of_korra,The legend of Korra,Comedy,23,3,The Voice in the Night,1,4,2012,3660000
+S,The_Legend_of_korra,The legend of Korra,Comedy,23,3,Rebel Spirit,2,1,2012,3660000
+S,The_Legend_of_korra,The legend of Korra,Comedy,23,3,The Southern Lights,2,2,2012,3660000
+S,The_Legend_of_korra,The legend of Korra,Comedy,23,4,Civil War Part 1,2,3,2012,3660000
+S,The_Legend_of_korra,The legend of Korra,Comedy,23,4,Civil War Part 2,2,4,2012,3660000
+S,The_Legend_of_korra,The legend of Korra,Comedy,23,3,A Breath of Fresh Air,3,1,2012,3660000
+S,The_Legend_of_korra,The legend of Korra,Comedy,23,2,Rebirth,3,2,2012,3660000
+S,The_Legend_of_korra,The legend of Korra,Comedy,23,3,The Earth Queen,3,3,2012,3660000
+S,The_Legend_of_korra,The legend of Korra,Comedy,23,3,In Harm's Way,3,4,2012,3660000
+M,Star_wars_IV,Star wars: A New Hope,Science Fiction,121,4,Star wars: A New Hope,0,0,1977,11000000
+M,Star_wars_V,Star wars:The Empire Strikes back,Science Fiction,124,4,Star wars:The Empire Strikes back,0,0,1980,18000000
+M,Star_wars_VI,Star wars: Return of the Jedi,Science Fiction,132,4,Star wars: Return of the Jedi,0,0,1983,32500000
+M,Star_wars_I,Star wars:The Phantom Menace,Science Fiction,133,4,Star wars:The Phantom Menace,0,0,1999,115000000
+M,Star_wars_II,Star wars: Attack of the Clones,Science Fiction,142,3,Star wars: Attack of the Clones,0,0,2002,120000000
+M,Star_wars_III,Star wars: Revenge of the Sith,Science Fiction,140,5,Star wars: Revenge of the Sith,0,0,2005,113000000
+M,Kumo_no_muko,Kumo no Muko,Anime,90,4,Kumo no Muko,0,0,2006,7000000
+S,Sherlock_1,Sherlock,Crime,85,4,A study in Pink,1,1,2010,100000000
+S,Sherlock_1,Sherlock,Crime,85,3,The Blind Banker,1,2,2010,100000000
+S,Sherlock_1,Sherlock,Crime,85,3,The Great Game,1,3,2010,100000000
+S,Sherlock_1,Sherlock,Crime,85,3,A Scandal in Belgravia,2,1,2010,100000000
+S,Sherlock_1,Sherlock,Crime,85,4,The Hounds of Baskerville,2,2,2010,100000000
+S,Sherlock_1,Sherlock,Crime,85,5,The Reichenback Fall,2,3,2010,100000000
+S,Sherlock_1,Sherlock,Crime,85,3,Many Happy Returns,3,1,2010,100000000
+S,Sherlock_1,Sherlock,Crime,85,3,The Empty Hearse,3,2,2010,100000000
+S,Sherlock_1,Sherlock,Crime,85,3,His Last Vow,3,3,2010,100000000
